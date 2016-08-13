@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wow]]></title>
+        <description><![CDATA[Wow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Aug 2016 22:11:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away]]></title>
+            <description><![CDATA[<article><h1>My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away</h1><p>Bear with me on this one. Let's say it's summer, end of August to be more precise. I live in Romania, I am a billionaire, and, of course, teleportation is possible. To make it easier for you to calculate (if you want to), use the Eastern European time (UTC+2).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d514394de715e2d49831dc9410ecb72b24380f6d.jpg"></article>]]></description>
+            <link>http://travelaway.me/24-hours-teleporting-billionaire/</link>
+            <guid isPermaLink="false">ed9cb8d9-4b10-4063-967a-5a55f6b4f96f</guid>
+            <pubDate>Sat, 13 Aug 2016 22:11:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
