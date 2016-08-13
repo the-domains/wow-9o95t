@@ -1,0 +1,14 @@
+layout_spectrum: 0.4329980106558651
+typography_spectrum: 0.7885747205000371
+color:
+  brandStrength: 0.11227692244574428
+  lightness: 0.5202458868734539
+  saturation: 0.8346648127771914
+  rhythmicContrast: 0.9865017482079566
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Wow
